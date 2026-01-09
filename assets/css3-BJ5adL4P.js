@@ -1,0 +1,1 @@
+import{_ as e,c as t,d as o,o as a}from"./index-Ba_j0ehV.js";const r="/assets/1-BNp9euP5.gif",c={};function n(p,s,_,d,f,l){return a(),t("div",null,[...s[0]||(s[0]=[o("img",{src:r,alt:""},null,-1)])])}const u=e(c,[["render",n],["__scopeId","data-v-29a0f6f9"]]);export{u as default};

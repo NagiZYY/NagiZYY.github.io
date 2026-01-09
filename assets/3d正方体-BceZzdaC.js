@@ -1,0 +1,1 @@
+import{_ as e,c as u,d as l,o}from"./index-Ba_j0ehV.js";const t={};function s(a,n,r,_,c,d){return o(),u("ul",null,[...n[0]||(n[0]=[l("li",null,null,-1),l("li",null,null,-1),l("li",null,null,-1),l("li",null,null,-1),l("li",null,null,-1),l("li",null,null,-1)])])}const p=e(t,[["render",s],["__scopeId","data-v-59d6f350"]]);export{p as default};
